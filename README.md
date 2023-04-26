@@ -6,7 +6,9 @@
 <h2 align="center">Inspired from the website AJIO.com, an E-commerce website.</h2>    
 
 <br />
+<img align="center"href= "https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png" />
 
+<!-- ![Screenshot (500)](https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png) -->
 
 
 
@@ -44,7 +46,6 @@ This a website inspired by a popular E-commerce website, AJIO.com. This webiste 
 
 <h1 align="center">Preview</h1> 
 
-![Screenshot (500)](https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png)
 ![Screenshot (502)](https://user-images.githubusercontent.com/97459166/234563730-e4b5f4d3-b68e-4e17-9cfe-66aa2c828b80.png)
 ![Screenshot (504)](https://user-images.githubusercontent.com/97459166/234563767-e9f1c75b-10bd-4a33-9fc4-80202b51d6f7.png)
 ![Screenshot (503)](https://user-images.githubusercontent.com/97459166/234563793-b792a394-fe8b-4d1c-84cc-9baa856b7ad9.png)
