@@ -1,23 +1,35 @@
-# E-commerce App 
-
-Deployed-Link- https://glamgrab-react.vercel.app/
-
-
-Lifestyle is India's leading fashion destination for the latest trends. Part of Dubai based retail and hospitality conglomerate - The Landmark Group, Lifestyle brings multiple categories including men, women and kids’ apparel, footwear, handbags, fashion accessories and beauty under the convenience of a single roof.
-## Screenshots:
-
-![outfit](https://user-images.githubusercontent.com/94694221/230531061-518219f4-c2f9-4dd7-910e-8313201a7d68.png)
-![outfit](https://user-images.githubusercontent.com/94694221/230531033-12cfa086-a87c-4bdf-ac33-50ba18765cac.png)
-![outift](https://user-images.githubusercontent.com/91380941/229769911-813db0f5-375a-4242-a311-384c917c3c7b.png)
-![outfit](https://user-images.githubusercontent.com/94694221/230530957-acd9dc18-5658-4f8f-a18a-6dbf6ee5cd0c.png)
-![outfit](https://user-images.githubusercontent.com/94694221/230530999-b5719a21-dcf7-4ad2-a365-3f5363bb4738.png)
-![outfit](https://user-images.githubusercontent.com/94694221/230531016-5468e0e9-c368-4fd2-ae6d-52b54bb25c28.png)
-![outfit](https://user-images.githubusercontent.com/94694221/230531109-4f55952e-e0b8-4254-ad7e-933937152057.png)
 
 
 
-## Features
+<h1 align="center">GlamGrab</h1> 
 
+<h2 align="center">Inspired from the website AJIO.com, an E-commerce website.</h2>    
+
+<br />
+
+
+
+
+     
+    
+  <h3 align="center"><a href="https://glamgrab-react.vercel.app/"><strong>Want to see live preview »</strong></a></h3>    
+  <p align="center"> 
+    <br />&#10023;
+    <a href="https://glamgrab-react.vercel.app/">View Demo</a>   &#10023;  
+    <a href="https://github.com/Abhii-07/React-ecommerce-app/issues">Report Bug</a>    &#10023;  
+  </p>
+<br/>
+
+<h1 align="center">Tech Stack</h1> 
+
+*Client:* React, Redux, Chakra UI
+
+*Server:* Node, json
+
+This a website inspired by a popular E-commerce website, AJIO.com. This webiste is purchasing cloths,footwear and accessiories from a varity of options available.
+
+
+## 🚀 Features
 - Login/Signup with Validation
 - Detailed Description Of Each Product
 - Add functionality to card, with desired quantity of each product
@@ -30,12 +42,14 @@ Lifestyle is India's leading fashion destination for the latest trends. Part of 
     "email": "eve.holt@reqres.in",
     "password": "cityslicka"
 
+<h1 align="center">Preview</h1> 
 
-## Tech Stack
+![Screenshot (500)](https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png)
+![Screenshot (502)](https://user-images.githubusercontent.com/97459166/234563730-e4b5f4d3-b68e-4e17-9cfe-66aa2c828b80.png)
+![Screenshot (504)](https://user-images.githubusercontent.com/97459166/234563767-e9f1c75b-10bd-4a33-9fc4-80202b51d6f7.png)
+![Screenshot (503)](https://user-images.githubusercontent.com/97459166/234563793-b792a394-fe8b-4d1c-84cc-9baa856b7ad9.png)
+![Screenshot (501)](https://user-images.githubusercontent.com/97459166/234563844-3c8ee65b-3522-4c15-8006-e93e9b615d8f.png)
 
-*Client:* React, Redux, Chakra UI
-
-*Server:* Node, json
 
 ## Credits
 This project was created by Abhijeet Hiwale
