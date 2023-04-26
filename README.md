@@ -6,8 +6,9 @@
 <h2 align="center">Inspired from the website AJIO.com, an E-commerce website.</h2>    
 
 <br />
-
-![Screenshot (500)](https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97459166/234563625-8dad38ae-838b-46b8-a5be-10789f4e9487.png">
+</p>
 
 
 
