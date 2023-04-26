@@ -3,8 +3,7 @@
 
 <h1 align="center">🛠️ Tech Stack</h1>
 <p align="center">
-    Client: React, Redux, Chakra UI
-    Server: Node, json
+    Client:<i>React, Redux, Chakra UI</i>  | Server: <i>Node, json</i>
 </p>
 
 <br />
@@ -26,13 +25,13 @@ This a website inspired by a popular E-commerce website, AJIO.com. This webiste 
 
 ## 🚀 Features
 
-🔐 Login/signup with validation
-📝 Detailed description of each product
-🛒 Add functionality to cart with desired quantity of each product
-➕ Increase or decrease the quantity, as well as delete the item from the cart
-💳 Check out the payment page and confirm the order
-👨‍💼 Admin access to add/modify products
-📱 Fully responsive design
+-🔐 Login/signup with validation
+-📝 Detailed description of each product
+-🛒 Add functionality to cart with desired quantity of each product
+-➕ Increase or decrease the quantity, as well as delete the item from the cart
+-💳 Check out the payment page and confirm the order
+-👨‍💼 Admin access to add/modify products
+-📱 Fully responsive design
 
 ## 👨‍💼 Admin Login
 To access the admin features, use the following credentials:
