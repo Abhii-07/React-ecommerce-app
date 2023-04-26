@@ -25,13 +25,15 @@ This a website inspired by a popular E-commerce website, AJIO.com. This webiste 
 
 ## 🚀 Features
 
--🔐 Login/signup with validation
--📝 Detailed description of each product
--🛒 Add functionality to cart with desired quantity of each product
--➕ Increase or decrease the quantity, as well as delete the item from the cart
--💳 Check out the payment page and confirm the order
--👨‍💼 Admin access to add/modify products
--📱 Fully responsive design
+<ul>
+  <li>🔐 Login/signup with validation</li>
+  <li>📝 Detailed description of each product</li>
+  <li>🛒 Add functionality to cart with desired quantity of each product</li>
+  <li>➕ Increase or decrease the quantity, as well as delete the item from the cart</li>
+  <li>💳 Check out the payment page and confirm the order</li>
+  <li>👨‍💼 Admin access to add/modify products</li>
+  <li>📱 Fully responsive design</li>
+</ul>
 
 ## 👨‍💼 Admin Login
 To access the admin features, use the following credentials:
