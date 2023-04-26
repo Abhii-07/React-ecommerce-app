@@ -20,7 +20,8 @@ import { useState, useEffect } from "react";
 import { ViewIcon, ViewOffIcon } from "@chakra-ui/icons";
 import { useNavigate } from "react-router-dom";
 import { shallowEqual, useDispatch, useSelector } from "react-redux";
-import Logo from "../Asssets/logo2.png";
+// import Logo from "../Assets/logo2.png";
+import iconGrab from "../Assets/iconGrab.png"
 
 import { SignUpFunc } from "../redux/authReducer/action";
 
@@ -122,7 +123,7 @@ export default function Signup() {
         width="300px"
         height="70px"
         _hover={{ cursor: "pointer" }}
-        src={Logo}
+        src={iconGrab}
         onClick={() => navigate("/")}
       />
       <Flex

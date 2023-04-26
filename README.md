@@ -1,6 +1,6 @@
 # E-commerce App 
 
-Deployed-Link- .....
+Deployed-Link- https://glamgrab-react.vercel.app/
 
 
 Lifestyle is India's leading fashion destination for the latest trends. Part of Dubai based retail and hospitality conglomerate - The Landmark Group, Lifestyle brings multiple categories including men, women and kids’ apparel, footwear, handbags, fashion accessories and beauty under the convenience of a single roof.
@@ -26,6 +26,10 @@ Lifestyle is India's leading fashion destination for the latest trends. Part of 
 - Admin ascess to add/modify products
 - Whole website is fully responsive
 
+## For Admin Login: 
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+
 
 ## Tech Stack
 
@@ -34,4 +38,4 @@ Lifestyle is India's leading fashion destination for the latest trends. Part of 
 *Server:* Node, json
 
 ## Credits
-This project was created by Abhijeet Hiwale.
+This project was created by Abhijeet Hiwale

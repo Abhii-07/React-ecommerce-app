@@ -1171,18 +1171,12 @@
   "registeredUser": [
     {
       "id": 1,
-      "firstName": "Parul",
-      "lastName": "Saini",
-      "email": "p@gmail.com",
+      "firstName": "Abhijeet",
+      "lastName": "Hiwale",
+      "email": "abhi@gmail.com",
       "password": "1234"
-    },
-    {
-      "firstName": "x",
-      "lastName": "y",
-      "email": "x@gmail.com",
-      "password": "1234",
-      "id": 2
     }
+    
   ],
 
   "cart": [

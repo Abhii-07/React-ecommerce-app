@@ -409,7 +409,7 @@ function Payment() {
                 either a 256-bit or 128-bit SSL certificate depending on your
                 browser version.
               </Text>
-              <Text mb="10px">© 2021 RNA Intellectual Property Limited.</Text>
+              <Text mb="10px">© 2023 Abhijeet Hiwale</Text>
               <Text mb="10px">
                 Privacy Policy-Terms of Use- Terms & Condition{" "}
               </Text>
