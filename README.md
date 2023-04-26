@@ -37,9 +37,13 @@ This a website inspired by a popular E-commerce website, AJIO.com. This webiste 
 
 ## 👨‍💼 Admin Login
 To access the admin features, use the following credentials:
+<ul>
+  <li>📧 Email: eve.holt@reqres.in</li>
+  <li>🔑 Password: cityslicka</li>
+</ul>
 
-📧 Email: eve.holt@reqres.in
-🔑 Password: cityslicka
+
+
 
 <h1 align="center">📷 Preview</h1>
 <h3 align = "center">Here are some screenshots of the website:</h3>
